@@ -1,0 +1,14 @@
+C:\Users\Админ\source\repos\ConsoleApp46\bin\Debug\net8.0\ConsoleApp46.exe
+C:\Users\Админ\source\repos\ConsoleApp46\bin\Debug\net8.0\ConsoleApp46.deps.json
+C:\Users\Админ\source\repos\ConsoleApp46\bin\Debug\net8.0\ConsoleApp46.runtimeconfig.json
+C:\Users\Админ\source\repos\ConsoleApp46\bin\Debug\net8.0\ConsoleApp46.dll
+C:\Users\Админ\source\repos\ConsoleApp46\bin\Debug\net8.0\ConsoleApp46.pdb
+C:\Users\Админ\source\repos\ConsoleApp46\obj\Debug\net8.0\ConsoleApp46.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Админ\source\repos\ConsoleApp46\obj\Debug\net8.0\ConsoleApp46.AssemblyInfoInputs.cache
+C:\Users\Админ\source\repos\ConsoleApp46\obj\Debug\net8.0\ConsoleApp46.AssemblyInfo.cs
+C:\Users\Админ\source\repos\ConsoleApp46\obj\Debug\net8.0\ConsoleApp46.csproj.CoreCompileInputs.cache
+C:\Users\Админ\source\repos\ConsoleApp46\obj\Debug\net8.0\ConsoleApp46.dll
+C:\Users\Админ\source\repos\ConsoleApp46\obj\Debug\net8.0\refint\ConsoleApp46.dll
+C:\Users\Админ\source\repos\ConsoleApp46\obj\Debug\net8.0\ConsoleApp46.pdb
+C:\Users\Админ\source\repos\ConsoleApp46\obj\Debug\net8.0\ConsoleApp46.genruntimeconfig.cache
+C:\Users\Админ\source\repos\ConsoleApp46\obj\Debug\net8.0\ref\ConsoleApp46.dll
